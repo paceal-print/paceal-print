@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Paceal Print 😁
+## Olá! Sou o Paulo Cesar, começando a entrar para o mundo DEV. Trabalho com design gráfico e mudando para webdesign!
 
  <div>
    <a href="https://github.com/paceal-print">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conhecer mais sobre mim, me siga nas redes sociais abaixo!!
  
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
